@@ -1,0 +1,6 @@
+{
+  "identifier": "default",
+  "description": "Default application permissions",
+  "windows": ["main"],
+  "permissions": ["core:default", "store:default"]
+}
